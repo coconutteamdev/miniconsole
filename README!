@@ -1,0 +1,35 @@
+==========================================
+=-------------Welcome to the-------------=
+=------------MiniConsole Repo------------=
+==========================================
+
+MiniConsole - A small C# terminal-like program created for fun
+
+==============================Info================================
+You can type "help" for a list of commands.
+The current commands are:
+
+clear         Clear the screen (remove all the text)
+draw [arg]    Draw to the screen (help draw)
+help          Show help menu
+hi            Say hi
+time          Displays the time
+path          Displays the current path of the executable
+prompt [arg]  Change prompt (help prompt)
+
+Some commands that have (help [command]) in their help description
+can be accessed using: help [command]. Examples includ (help draw), 
+and (help prompt).
+This project was created in Visual Studio Community 2019 using C#.
+============================Releases?=============================
+You can compile it yourself using my simple batch script included.
+Windows/Linux binaries can be found in the Releases section.
+For some reason they compile with a lot of DLLs and I do not know
+how to remove them.
+===============================Why================================
+    I got bored and decided to make this project.
+    This was created in C# to see how making a C# program is like.
+==========================Collaborators===========================
+    Kat21 - https://github.com/datkat21
+    ActuallyExeon - https://github.com/actuallyexeon 
+==================================================================
